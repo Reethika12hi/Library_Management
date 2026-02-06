@@ -29,19 +29,17 @@ This project is suitable for **freshers**, **internships**, and **academic mini-
 
 ---
 
-## 📂 Project Structure
-
 Library_Management/
 │
 ├── app.py
 ├── library.db
 ├── static/
-│ └── style.css
+│   └── style.css
 ├── templates/
-│ ├── index.html
-│ ├── books.html
-│ ├── students.html
-│ └── edit_book.html
+│   ├── index.html
+│   ├── books.html
+│   ├── students.html
+│   └── edit_book.html
 └── README.md
 
 ---
